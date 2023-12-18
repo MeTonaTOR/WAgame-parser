@@ -27,6 +27,6 @@ A simple parser wrote in PHP.
 ```
 
 ### TODO:
-[x] Read chat file properly
-[ ] Add usernames instead of 'Player XX'
-[ ] Add detailed informations about disconnection
+- [x] Read chat file properly
+- [ ] Add usernames instead of 'Player XX'
+- [ ] Add detailed informations about disconnection
